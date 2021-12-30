@@ -1,0 +1,158 @@
+CRITICAL - 2021-10-19 09:37:41 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:38:10 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:38:11 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:38:14 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:41:04 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:41:12 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:41:26 --> Invalid file: Diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('Diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('Diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:41:35 --> Invalid file: Diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('Diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('Diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:45:24 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:48:19 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:50:17 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:50:18 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:50:19 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:50:19 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 09:50:41 --> Invalid file: diecast/index.php
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('diecast/index.p...')
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/index', Array, true)
+#2 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(12): view('diecast/index', Array)
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#4 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#8 {main}
+CRITICAL - 2021-10-19 11:56:44 --> Call to undefined method App\Models\DiecastModel::getDiecast
+#0 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(33): CodeIgniter\Model->__call('getDiecast', Array)
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->detail('mini-gt')
+#2 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#6 {main}

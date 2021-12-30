@@ -1,0 +1,36 @@
+CRITICAL - 2021-11-01 07:20:06 --> Undefined variable: komik
+#0 D:\xampp2\htdocs\ci4app\app\Views\diecast\detail.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp2\\htdoc...', 21, Array)
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp2\\htdoc...')
+#2 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/detail', Array, true)
+#4 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(44): view('diecast/detail', Array)
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->detail('tomica-premium')
+#6 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#10 {main}
+CRITICAL - 2021-11-01 07:34:07 --> Undefined variable: komik
+#0 D:\xampp2\htdocs\ci4app\app\Views\diecast\detail.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp2\\htdoc...', 19, Array)
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp2\\htdoc...')
+#2 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/detail', Array, true)
+#4 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(44): view('diecast/detail', Array)
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->detail('hotwheels')
+#6 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#10 {main}
+CRITICAL - 2021-11-01 07:54:04 --> Undefined index: gambar
+#0 D:\xampp2\htdocs\ci4app\app\Views\diecast\edit.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\xampp2\\htdoc...', 40, Array)
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(214): include('D:\\xampp2\\htdoc...')
+#2 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('diecast/edit', Array, true)
+#4 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(106): view('diecast/edit', Array)
+#5 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->edit('hotwheels')
+#6 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#10 {main}

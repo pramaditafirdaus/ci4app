@@ -1,0 +1,15 @@
+ERROR - 2021-10-27 21:40:33 --> Error connecting to the database: Unknown database 'ci4'
+CRITICAL - 2021-10-27 21:40:33 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'ci4'
+#0 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Database\BaseConnection.php(570): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 D:\xampp2\htdocs\ci4app\app\Models\DiecastModel.php(16): CodeIgniter\BaseModel->findAll()
+#5 D:\xampp2\htdocs\ci4app\app\Controllers\Diecast.php(21): App\Models\DiecastModel->getDiecast()
+#6 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Diecast->index()
+#7 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Diecast))
+#8 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp2\htdocs\ci4app\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 D:\xampp2\htdocs\ci4app\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp2\\htdoc...')
+#11 {main}
